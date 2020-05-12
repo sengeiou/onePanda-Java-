@@ -37,8 +37,8 @@ spring:
 
   #腾讯云存储桶的配置,path用于返回访问路径
   tengxun:
-    secretId: AKID2vb2DJdAmzHLAnrOGyTkorhJhGEyoPnC
-    secretKey: Rfe4EBtJTGsHQKisnRrDessfEZfroX1G
+    secretId: 腾讯云对象存储ID
+    secretKey: 腾讯云对象存储秘钥
     onePandaBucket: one-panda-1257831346
     area: ap-shanghai
     path: https://one-panda-1257831346.cos.ap-shanghai.myqcloud.com/
